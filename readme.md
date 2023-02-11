@@ -1,4 +1,4 @@
-# Prooyecto Final - Solidity Bootcamp 🗒️💸💱
+# Proyecto Final - Solidity Bootcamp 🗒️💸💱
 
 El objetivo principal es desarrollar un contrato inteligente que permita generar y administrar votaciones.
 
